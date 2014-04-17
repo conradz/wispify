@@ -1,5 +1,7 @@
 # wispify
 
+[![Build Status](https://travis-ci.org/conradz/wispify.svg)](https://travis-ci.org/conradz/wispify)
+
 Simple transform to compile [wisp](https://github.com/Gozala/wisp) to JavaScript
 when using [Browserify](https://github.com/substack/node-browserify).
 
